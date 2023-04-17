@@ -20,4 +20,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: deploy
-        run: echo "Deploying
+        run: echo 'Deploying'
